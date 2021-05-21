@@ -1,1 +1,1 @@
-Planck 2018 plik_likte ligh-L likelihood data
+Data files for native python implementations of Planck Cobaya likelihoods. Binary downloads releases.
